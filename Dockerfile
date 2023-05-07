@@ -1,3 +1,3 @@
 FROM nginx
 
-ADD ./content//usr/share/html
+ADD ./7may-repo/content//usr/share/html
