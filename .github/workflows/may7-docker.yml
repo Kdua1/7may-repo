@@ -22,6 +22,6 @@ jobs:
           image: kdua1/may-image
           registry: dockerfile.io
           dockerfile: Dockerfile
-          context: 7may-repoFolder/
+          context: 7may-repo/
           tag: kdua1/kwakudua:latest
      
